@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run this web app, the first thing you need to follow is to run the following CLI commands:
+1. To download all the dependencies used in the project:
+   ### `npm install`
+
+2. To run the web app, you can run:
+   ### `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
